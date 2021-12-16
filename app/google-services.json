@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "159114900893",
+    "project_id": "shopping-cart-applicatio-f7052",
+    "storage_bucket": "shopping-cart-applicatio-f7052.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159114900893:android:9b738424a1d0dbd1afeb74",
+        "android_client_info": {
+          "package_name": "commerce.amazoncommerce.shoppingcartapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159114900893-d7jftkqhli6rjf4sfl7i3g303tn9ndus.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "commerce.amazoncommerce.shoppingcartapplication",
+            "certificate_hash": "ab23cff39957dfaa13c8be3265e39052176ae9fa"
+          }
+        },
+        {
+          "client_id": "159114900893-9t3p5budqcj11savuo07is1qo61j7mpl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFxDT_eoZHwS4TpL9VN9Vei8VHL_ad8bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159114900893-9t3p5budqcj11savuo07is1qo61j7mpl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
